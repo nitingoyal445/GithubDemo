@@ -1,0 +1,17 @@
+
+
+	git init 
+
+	git pull https://github.com/sanjaydegaonkar/SmartBatch.git
+
+	git add BankApplicationTDD
+
+	git commit -m "bank app"(proper display messages)
+
+	git push https://github.com/sanjaydegaonkar/SmartBatch.git master
+
+
+
+
+
+	git status(shows uncommited file)
